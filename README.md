@@ -14,5 +14,5 @@ Before logistic regression, CountVectorizer is applied to tokenise the lyrics an
 - Run the main.py file along with atleast one Artist in a string format. 
 
 ### Collaborators
-- Moritz
-- Simantini
+- [Simantini](https://github.com/shindesimantini6)
+- [Moritz](https://github.com/moelemae)
